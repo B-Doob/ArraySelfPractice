@@ -1,0 +1,15 @@
+/Users/brayden/Development/C#/ArraySelfPractice/bin/Debug/net5.0/ArraySelfPractice.deps.json
+/Users/brayden/Development/C#/ArraySelfPractice/bin/Debug/net5.0/ArraySelfPractice.runtimeconfig.json
+/Users/brayden/Development/C#/ArraySelfPractice/bin/Debug/net5.0/ArraySelfPractice.runtimeconfig.dev.json
+/Users/brayden/Development/C#/ArraySelfPractice/bin/Debug/net5.0/ArraySelfPractice.dll
+/Users/brayden/Development/C#/ArraySelfPractice/bin/Debug/net5.0/ref/ArraySelfPractice.dll
+/Users/brayden/Development/C#/ArraySelfPractice/bin/Debug/net5.0/ArraySelfPractice.pdb
+/Users/brayden/Development/C#/ArraySelfPractice/obj/Debug/net5.0/ArraySelfPractice.csproj.AssemblyReference.cache
+/Users/brayden/Development/C#/ArraySelfPractice/obj/Debug/net5.0/ArraySelfPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brayden/Development/C#/ArraySelfPractice/obj/Debug/net5.0/ArraySelfPractice.AssemblyInfoInputs.cache
+/Users/brayden/Development/C#/ArraySelfPractice/obj/Debug/net5.0/ArraySelfPractice.AssemblyInfo.cs
+/Users/brayden/Development/C#/ArraySelfPractice/obj/Debug/net5.0/ArraySelfPractice.csproj.CoreCompileInputs.cache
+/Users/brayden/Development/C#/ArraySelfPractice/obj/Debug/net5.0/ArraySelfPractice.dll
+/Users/brayden/Development/C#/ArraySelfPractice/obj/Debug/net5.0/ref/ArraySelfPractice.dll
+/Users/brayden/Development/C#/ArraySelfPractice/obj/Debug/net5.0/ArraySelfPractice.pdb
+/Users/brayden/Development/C#/ArraySelfPractice/obj/Debug/net5.0/ArraySelfPractice.genruntimeconfig.cache
